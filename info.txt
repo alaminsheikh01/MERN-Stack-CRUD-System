@@ -1,0 +1,11 @@
+backend:
+npm init -y
+npm install express
+npm install mongoose jsonwebtoken cors body-parser
+npm install nodemon dotenv slugify express-jwt 
+npm install morgan
+
+frontend:
+npx create-react-app
+npm install react-router-dom
+npm i axios
